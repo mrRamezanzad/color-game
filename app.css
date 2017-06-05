@@ -1,0 +1,27 @@
+#content {
+  padding-top: 15%;
+  text-align: center;
+}
+
+body {
+  background: url(https://images.unsplash.com/photo-1415369629372-26f2fe60c467?dpr=1&auto=format&fit=crop&w=1500&h=2250&q=80&cs=tinysrgb&crop=&bg=);
+  background-size: cover;
+  background-position: center;
+  font-family: lato;
+  color: white;
+}
+
+hr {
+  width: 400px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid  rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 5em;
+}
+
+html {
+  height: 100%;
+}
